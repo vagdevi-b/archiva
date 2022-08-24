@@ -18,12 +18,12 @@
 <distributionManagement>
     <repository>
         <id>test</id>
-        <name>test</name>
+        <name>test repo</name>
         <url>http://13.126.66.124:8081/repository/test</url>
     </repository>
     <snapshotRepository>
         <id>test</id>
-        <name>test</name>
+        <name>test repo</name>
         <url>http://13.126.66.124:8081/repository/test</url>
     </snapshotRepository>
 </distributionManagement>
